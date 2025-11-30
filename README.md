@@ -2,7 +2,7 @@
 
 **LIMEN** adalah alat sederhana berbasis Python untuk mendeteksi kerentanan *Local File Inclusion* (LFI) pada aplikasi web. Aplikasi ini dibangun menggunakan antarmuka grafis (GUI) Tkinter dan menerapkan konsep Pemrograman Berorientasi Objek (OOP) serta Struktur Data.
 
-Project ini dibuat untuk memenuhi Tugas Akhir Praktikum Pemrograman Dasar.
+Project ini dibuat untuk Tugas Akhir Praktikum Pemrograman Dasar.
 
 ## 📂 Struktur Direktori
 
